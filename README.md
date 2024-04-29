@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+![Screenshot_1714372900](https://github.com/H1aitham/basketball-points-counter-app/assets/168301401/59222962-25a4-477e-ac61-06a164c965c6)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
